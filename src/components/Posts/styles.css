@@ -1,0 +1,7 @@
+.mainContainer {
+    display: 'flex';
+    align-items: 'center';
+}
+.actionDiv {
+    text-align: 'center';
+}
