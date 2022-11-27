@@ -1,0 +1,12 @@
+.appBarSearch {
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    display: flex;
+    padding: 16px;
+    margin-bottom: 10%;
+}
+.pagination {
+    border-radius: 4;
+    margin-top: 1rem;
+    padding: 16px;
+}

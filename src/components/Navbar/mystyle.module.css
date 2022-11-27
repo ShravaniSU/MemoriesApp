@@ -1,0 +1,46 @@
+body {
+  background-color: #59C1BD
+}
+.appBar {
+  border-radius: 25px;
+  margin: 30px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #59C1BD;
+}
+.heading {
+  color: #3A8891;
+  text-decoration: none;
+  text-align: left;
+  font-variant: normal;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: flex-end;
+  width: 95%;
+  margin-right: 10%;
+}
+.profile {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+}
+.userName {
+  display: flex;
+  align-items: center;
+}
+.brandContainer{
+  display: flex;
+  align-items: center;
+}
+.purple {
+  color: #3A8891;
+  background-color: #BAD1C2;
+}
+img{
+  padding: 25px 15px 15px 15px;
+}
+

@@ -17,12 +17,13 @@
     border-radius: '15px';
     height: '100%';
     position: 'relative';
+    background-color: "#FFEFD6";
 }
 .overlay {
     position: 'absolute';
     top: '20px';
     left: '20px';
-    color: 'white';
+    color: 'blue';
 }
 .overlay2 {
     position: 'absolute';
